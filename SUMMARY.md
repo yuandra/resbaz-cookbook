@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](INTRO.md)
 * [Origins & Values](OriginsValues.md)
 * [Course Curriculum](course_curriculum.md)
 * [Social Activities](social_activities.md)
