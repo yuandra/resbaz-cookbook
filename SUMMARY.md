@@ -1,6 +1,5 @@
 # Summary
 
-* [Readme](README.md)
 * [Introduction](INTRO.md)
 * [Origins & Values](OriginsValues.md)
 * [Course Curriculum](course_curriculum.md)
