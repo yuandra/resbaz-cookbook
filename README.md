@@ -1,6 +1,6 @@
 # The Research Bazaar Cookbook
 
-The aim of this Cookbook is to provide tips, tricks, advice & ingredients for starting a ResBaz Conference at your own institution. Like ResBaz, this Cookbook believes in open and collaborative communities. If you'd like to contribute and become an author of this cookbook, please email [research.bazaar@gmail.com](research.bazaar@gmail.com). Confused? Flick us an [email](research.bazaar@gmail.com) or tweet at [@ResBaz](www.twitter.com/resbaz).
+The aim of this Cookbook is to provide tips, tricks and advice for running a ResBaz Conference at your own institution. Like ResBaz, this Cookbook believes in open and collaborative communities. If you'd like to contribute and become an author of this cookbook, please email [research.bazaar@gmail.com](research.bazaar@gmail.com). Confused? Flick us an [email](research.bazaar@gmail.com) or tweet at [@ResBaz](www.twitter.com/resbaz).
 
 Planning for ResBaz 2017 has already started! Dates have been set for January 31st - February 2 (3 days). Join the action on our collaborative Slack channel (ask for an invite via [email](research.bazaar@gmail.com)). We'll also be blogging our journey over on Wordpress - [see here for updates](resbaz.blog.wordpress.com). 
 
@@ -41,18 +41,7 @@ Here's a summary of the steps involved in being a host site for ResBaz 2017:
   * Please use the #ResBaz hashtag whenever tweeting about your event
   * If you need a copy of the ResBaz logo for advertising purposes, you can find it (in many different file formats) at [this folder](https://github.com/resbaz/resbaz-2016-02-01/tree/gh-pages/img/resbaz_logos) of the GitHub repository 
 
-5. Sort out your local registration process
-  * Each site will manage its own registrations using a platform like Google Forms or Eventbrite (check out the [Melbourne registration form](http://go.unimelb.edu.au/2ura) as an example) 
-  * If you'd like to use the Melbourne form as a template for your own local registration form, simply go to 
-[http://go.unimelb.edu.au/t4ja](http://go.unimelb.edu.au/t4ja) and make a copy of the document (File -> make a copy) (contact [Yuandra Ismiraldi](https://twitter.com/iniandra) for assistance)
 
-6. Integrate your registration process with the global ResBaz survey
-  * The global ResBaz survey has been created to gather information about the digital tools researchers use and how they use them
-  * The short link to the survey is: http://go.unimelb.edu.au/4ura
-  * We ask that each ResBaz site make the survey either a compulsory or strongly recommended part of their application/registration process: 
-    * *Compulsory:* Upon submission of their survey responses, respondents are given an application code (`ResApplicant2016-16180215` - it looks randomly generated but it isn't) that they can use if they wish to apply to attend a ResBaz site for which survey completion is compulsory. Sites who require this should have applicants enter the application code in the very first question on their local application form. Sites who have decided to make the survey compulsory have done so in an attempt to keep the "no show" rate down (i.e. people who are willing to complete a 5 minute survey are more likely to actually show up to the event). 
-    * *Strongly recommended:* Some sites felt that compulsory survey completion was scaring away potential applicants and was confusing the application process by adding an extra step. Instead, those sites have simply made it a recommended part of the process instead. For example, upon completing the local Melbourne application form, respondents are presented with the following statement encouraging them to complete the survey: "Filling the ResBaz Global Survey will allow us to get a better picture of you and your research. This will help us (a) make a more informed decision regarding application acceptance for ResBaz, and (b) tailor our classes and social activities to your interests and prior experience." 
-  * The results of the global survey will be made available to all ResBaz organisers in two stages. You'll get the responses from all the people who applied to attend your local ResBaz event prior to the event (i.e. so that you can use that information to tailor your classes to the needs and skill level of your audience), and then after the event the anonymised responses from everyone who completed the survey will be made available to those interested in doing some analysis of those data.
 
 
 If you have any questions about running your ResBaz event, the best place go is the ResBaz [Gitter channel](http://melbourne.resbaz.edu.au/post/113825220654/join-us-on-gitter). Alternatively, you can tweet us [@ResBaz](https://twitter.com/ResBaz) or email research.bazaar@gmail.com.
