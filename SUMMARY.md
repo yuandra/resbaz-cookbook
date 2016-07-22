@@ -5,4 +5,5 @@
 * [Ideas for classes](course_curriculum.md)
 * [Ideas for social activities](social_activities.md)
 * [FAQs](faqs.md)
+   * test
 
