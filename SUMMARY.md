@@ -5,6 +5,6 @@
 * [Ideas for classes](course_curriculum.md)
 * [Ideas for social activities](social_activities.md)
 * [Progress summaries](progress_summaries.md)
-   * Hobart
+   * [Hobart](sites/hobart.md)
 * [FAQs](faqs.md)
 
