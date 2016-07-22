@@ -29,8 +29,11 @@ On the final day of the event (i.e. once the participants have got some core ski
 | Class | Leader     | Teaching materials |
 | :---  | :---       | :----              | 
 | Public speaking | Bill Cohen | |
-| IMOS (unconfirmed) | ?? | |
 | A tour of the scientific Python stack | Damien Irving | |
+
+Other groups/people to approach about running an elective:
+* IMOS
+* [Hobart Hackerspace](https://hobarthackerspace.org.au/)
 
 
 
