@@ -9,7 +9,7 @@ For a more detailed look into the origins of ResBaz (the campaign, community & c
 
 # Values
 
-With growth comes complexity. As more ResBaz sites pop up we need to think strategically about the values that bind all sites together. It's important to remember that ResBaz isn't defined by size, content, form or scale. It doesn't matter if you're running workshops in twelve tools or just a single one. Whether you have five hundred attendees or an intimate fifteen. What does matter, however, are the values that run consistently through each ResBaz. 
+With growth comes complexity. As more ResBaz sites pop up we need to think strategically about the values that bind all sites together. It's important to remember that ResBaz isn't defined by size, content, form or scale. It doesn't matter if you're running workshops in twelve digital tools or just a single one. Whether you have five hundred attendees or an intimate fifteen. What does matter, however, are the values that run consistently through each ResBaz. 
 
 *Note: the values below were chosen by the Melbourne team and are **entirely** up for discussion (which is enthusiastically encouraged!). 
 *
@@ -17,7 +17,7 @@ With growth comes complexity. As more ResBaz sites pop up we need to think strat
 
 ### People Over Technology
 
-We believe that community engagement is the most efficient way of teaching new complex digital skills (in place of a traditional ticketed helpdesk). Trainings are therefore innovative and social - providing opportunity for upskilling as well as networking. Being people-centric also means understanding the struggles and complexities of reseach life. Workshops are thus prepared and run by fellow researchers. 
+We believe that community engagement is the most efficient way of teaching new complex digital skills (in place of a traditional ticketed helpdesk). Trainings are therefore innovative and social - providing opportunity for upskilling as well as networking. Being people-centric also means understanding the struggles and complexities of research life. Workshops are thus prepared and run by fellow researchers. 
 
 **Suggestions:** 
 * Achieve a good balance of academic and social events
