@@ -1,4 +1,5 @@
-# The Research Bazaar Cookbook
+
+## ResBaz 2017
 
 The aim of this Cookbook is to provide tips, tricks and advice for running a ResBaz conference at your own institution. Like ResBaz, this Cookbook believes in open and collaborative communities. If you'd like to contribute and become an author of this cookbook, please email [research.bazaar@gmail.com](research.bazaar@gmail.com). Confused? Flick us an [email](research.bazaar@gmail.com) or tweet at [@ResBaz](www.twitter.com/resbaz).
 
