@@ -38,5 +38,5 @@ Once your plans are taking shape, you'll want to start making some noise about y
   * If you need a copy of the ResBaz logo for advertising purposes, you can find it (in many different file formats) at [this folder](https://github.com/resbaz/resbaz2017/tree/gh-pages/img/resbaz_logos) of the GitHub repository 
 
 
-
+(In the coming months we'll be providing additional information on topics like how to handle registrations.)
 
