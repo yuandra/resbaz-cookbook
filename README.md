@@ -1,4 +1,4 @@
-The aim of this Cookbook is to provide tips, tricks and advice for running a ResBaz conference at your own institution. Like ResBaz, this Cookbook believes in open and collaborative communities. If you'd like to contribute and/or edit content, [get in touch](#<contact us>) and we'll give you the necessary access. 
+The aim of this Cookbook is to provide tips, tricks and advice for running a ResBaz conference at your own institution. Like ResBaz, this Cookbook believes in open and collaborative communities. If you'd like to contribute and/or edit content, get in touch and we'll give you the necessary access. 
 
 ----
 ### Contact us
@@ -15,11 +15,13 @@ research.bazaar@gmail.com
 
 The dates for "ResBaz week" have been announced: **30 January - 5 February 2017**
 
-If you're interested in running an event during that week (or soon-after if that week isn't practical), here are the steps required to make that happen...
+If you're interested in running an event during that week (or soon after if that week isn't practical), here are the steps required to make that happen...
 
 #### 1. Join the conversation
 
-Subscribe to the [ResBaz blog](https://resbazblog.wordpress.com/) to make sure you don't miss our monthly newsletter for ResBaz organisers. To keep up with the news between newsletters, email us and we'll add you to our ResBaz Slack channel.
+Subscribe to the [ResBaz blog](https://resbazblog.wordpress.com/) to make sure you don't miss our monthly newsletter for ResBaz organisers. 
+
+To keep up with the news between newsletters, email us and we'll add you to our ResBaz page on Slack. As well as using Slack to join the global conversation, many sites are creating their own channels on the ResBaz page for site-specific chat.
 
 
 #### 2. Plan your event  
