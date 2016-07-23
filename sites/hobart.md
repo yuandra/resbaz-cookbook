@@ -49,18 +49,21 @@ Ideas:
 
 | Topic             | Speaker/s      | Notes |
 | :--               | :----          | :--   |
-| Key-story (day 1) | Damien Irving  | Will include a brief history of ResBaz |
-| Key-story (day 2) | ???            | |
-| Key-story (day 3) | ???            | |
+| Keystory (day 1) | Damien Irving  | Will include a brief history of ResBaz |
+| Keystory (day 2) | ???            | |
+| Keystory (day 3) | ???            | |
 
 Key-stories replace the traditional "keynote" speaker. The idea is to find speakers who have had an atypical journey in their career (and to get them to talk about that interesting journey), as many early career researchers feel there's a right and wrong way to go about things, which isn't really true.   
 
 
 ### Draft schedule
 
-| Time          | Tue 31 Jan      | Wed 1 Feb      | Thu 2 Feb         | 
-| :--           | :--             | :--            | :--               |
-| 08:30 - 08:50 | Key-story       | Key-story      | Key-story         |
-| 09:00 - 10:30 | Stream classes  | Stream classes | Elective classes  | 
-| 10:30 - 11:00 | Morning tea     | Morning tea    | Morning tea       |
+Days 1 and 2 are effective a number of Software Carpentry workshops running simultaneously. Day 3 is then the "bazaar", with elective classes on all sort of electives on different digital research tools and techniques. We could offer tickets to all three days or just the final day.
+
+| Time          | Tue 31 Jan      | Wed 1 Feb       | Thu 2 Feb         | 
+| :--           | :--             | :--             | :--               |
+| 08:30 - 09:00 | Keystory        | Keystory        | Keystory          |
+| 09:00 - 10:30 | Stream classes  | Stream classes  | Elective classes  | 
+| 10:30 - 11:00 | **Morning tea** | **Morning tea** | **Morning tea**   |
+| 11:00 - 12:30 | Stream classes  | Stream classes  | Elective classes  |
 
