@@ -24,12 +24,13 @@ When people register, they will be required to select one of the following strea
 
 #### Electives (Day 3)
 
-On the final day of the event (i.e. once the participants have got some core skills under their belt) a number of short elective classes will be offered. These will be 1.5-3.0 hours in length and participants can attend whichever they like. During the lunch break exhibitors will have display tables so they can chat to attendees (and sign people up to their mailing lists, etc).
+On the final day of the event (i.e. once the participants have got some core skills under their belt) a number of short elective classes will be offered. These will be 0.5-3.0 hours in length and participants can attend whichever they like. During the lunch break exhibitors will have display tables so they can chat to attendees (and sign people up to their mailing lists, etc).
 
-| Elective class | Leader | Type |
+| Elective class | Leader | Type (approximate length) |
 | :---  | :---       | :----              | 
-| Public speaking | Bill Cohen | Workshop |
-| A tour of the scientific Python stack | Damien Irving | Talk/demonstration |
+| Public speaking | Bill Cohen | Workshop (3 hours) |
+| A tour of the scientific Python stack | Damien Irving | Talk/demonstration (30 minutes) |
+| How to write a reproducible paper | Damien Irving | Talk (30 minutes) |
 
 | Exhibitor               | Contact person  |
 | :---                    | :---            |
