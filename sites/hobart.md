@@ -36,10 +36,31 @@ Other groups/people to approach about running an elective:
 * [Hobart Hackerspace](https://hobarthackerspace.org.au/)
 
 
-
 ### Social events
 
 | Event | Leader     | Description |
 | :---  | :---       | :----       | 
 
+Ideas:
+* Morning breakfast and yoga
+
+
+### Speakers
+
+| Topic             | Speaker/s      | Notes |
+| :--               | :----          | :--   |
+| Key-story (day 1) | Damien Irving  | Will include a brief history of ResBaz |
+| Key-story (day 2) | ???            | |
+| Key-story (day 3) | ???            | |
+
+Key-stories replace the traditional "keynote" speaker. The idea is to find speakers who have had an atypical journey in their career (and to get them to talk about that interesting journey), as many early career researchers feel there's a right and wrong way to go about things, which isn't really true.   
+
+
+### Draft schedule
+
+| Time          | Tue 31 Jan      | Wed 1 Feb      | Thu 2 Feb         | 
+| :--           | :--             | :--            | :--               |
+| 08:30 - 08:50 | Key-story       | Key-story      | Key-story         |
+| 09:00 - 10:30 | Stream classes  | Stream classes | Elective classes  | 
+| 10:30 - 11:00 | Morning tea     | Morning tea    | Morning tea       |
 
