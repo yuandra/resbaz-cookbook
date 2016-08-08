@@ -31,6 +31,7 @@ On the final day of the event (i.e. once the participants have got some core ski
 | Public speaking | Bill Cohen | Workshop (3 hours) |
 | A tour of the scientific Python stack | Damien Irving | Talk/demonstration (30 minutes) |
 | How to write a reproducible paper | Damien Irving | Talk (30 minutes) |
+| Dumb question session | Software Carpentry instructors | Question and answer session (1.5 hours) |
 
 | Exhibitor               | Contact person  |
 | :---                    | :---            |
