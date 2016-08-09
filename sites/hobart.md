@@ -40,11 +40,13 @@ On the final day of the event (i.e. once the participants have got some core ski
 | Hobart R Users Group    | Bill Cohen      |
 | [UTAS bioinformatics](https://lists.utas.edu.au/mailman/listinfo/bioinformatics-list)     | Michael Charleston |
 
+
 Other groups/people to approach about running an elective and/or being an exhibitor:
 * [IMOS](http://imos.org.au/)
 * [Hobart Hackerspace](https://hobarthackerspace.org.au/)  
 * UTAS library
 * [TPAC](http://www.tpac.org.au/)
+* [Innovatas](http://www.innovatas.com.au/who/)
 
 
 ### Social events
