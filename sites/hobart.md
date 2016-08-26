@@ -39,6 +39,7 @@ On the final day of the event (i.e. once the participants have got some core ski
 | IMAS Python Users Group | Pearse Buchanan |
 | Hobart R Users Group    | Bill Cohen      |
 | [UTAS bioinformatics](https://lists.utas.edu.au/mailman/listinfo/bioinformatics-list)     | Michael Charleston |
+| [COMBINE](https://combine.org.au/category/where/tas/)                 | Andrew Phipps   |
 
 
 Other groups/people to approach about running an elective and/or being an exhibitor:
