@@ -8,7 +8,7 @@ https://2017.resbaz.com/hobart
 
 ----
 
-[Data Science Hobart](https://datasciencehobart.github.io/) will host Tasmania's first ever ResBaz conference in early 2017. We're using this page to keep notes on the organising timeline and draft schedule.
+[Data Science Hobart](https://datasciencehobart.github.io/) will host Tasmania's first ever ResBaz conference in early 2017. We're using this page to keep notes on the organising timeline and draft program.
 
 ## Timeline
 
@@ -16,7 +16,7 @@ https://2017.resbaz.com/hobart
 * October 2016: Put out a call for exhibitors and elective classes. Finalise schedule.
 * November 2016: Open registrations
 
-## Draft plans
+## Draft program
 
 ### Schedule
 
@@ -87,7 +87,7 @@ Ideas:
 | Topic             | Speaker/s      | Notes |
 | :--               | :----          | :--   |
 | Keystory (day 1)  | Damien Irving  | Title: "A brief history of ResBaz and how it was the making of my PhD experience" |
-| Keystory (day 2)  | ???            | |
-| Keystory (day 3)  | ???            | |
+| Keystory (day 2)  | ???            |       |
+| Keystory (day 3)  | ???            |       |
 
 Key-stories replace the traditional "keynote" speaker. The idea is to find speakers who have had an atypical journey in their career (and to get them to talk about that interesting journey), as many early career researchers feel there's a right and wrong way to go about things, which isn't really true.   
