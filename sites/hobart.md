@@ -8,10 +8,33 @@ https://2017.resbaz.com/hobart
 
 ----
 
-[Data Science Hobart](https://datasciencehobart.github.io/) will host Tasmania's first ever ResBaz conference in early 2017. We're using this page to keep notes on the draft schedule.
+[Data Science Hobart](https://datasciencehobart.github.io/) will host Tasmania's first ever ResBaz conference in early 2017. We're using this page to keep notes on the organising timeline and draft schedule.
 
+## Timeline
 
-### Classes
+* September 2016: Make venue bookings
+* October 2016: Put out a call for exhibitors and elective classes. Finalise schedule.
+* November 2016: Open registrations
+
+## Draft plans
+
+### Schedule
+
+Days 1 and 2 are effectively a couple of Software Carpentry workshops running simultaneously. Day 3 is then the "bazaar", with elective classes on all sorts of different digital research tools and techniques. People will be able to register for all 3 days or just the final day.
+
+| Time          | Tue 31 Jan         | Wed 1 Feb          | Thu 2 Feb          | 
+| :--           | :--                | :--                | :--                |
+| 08:30 - 09:00 | Keystory           | Keystory           | Keystory           |
+| 09:00 - 10:30 | Stream classes     | Stream classes     | Elective classes   | 
+| 10:30 - 11:00 | **Morning tea**    | **Morning tea**    | **Morning tea**    |
+| 11:00 - 12:30 | Stream classes     | Stream classes     | Elective classes   |
+| 12:30 - 01:30 | **Lunch**          | **Lunch**          | **Lunch & exhibitors ** |
+| 01:30 - 03:00 | Stream classes     | Stream classes     | Elective classes   |
+| 03:00 - 03:30 | **Afternoon tea ** | **Afternoon tea ** | **Afternoon tea ** |
+| 03:30 - 05:00 | Stream classes     | Stream classes     | Elective classes   |
+| After 5:00    | Social event       | Social event       |                    |
+
+### Class details
 
 #### Streams (Day 1 and 2)
 
@@ -63,27 +86,8 @@ Ideas:
 
 | Topic             | Speaker/s      | Notes |
 | :--               | :----          | :--   |
-| Keystory (day 1)  | Damien Irving  | Will include a brief history of ResBaz |
+| Keystory (day 1)  | Damien Irving  | Title: "A brief history of ResBaz and how it was the making of my PhD experience" |
 | Keystory (day 2)  | ???            | |
 | Keystory (day 3)  | ???            | |
 
 Key-stories replace the traditional "keynote" speaker. The idea is to find speakers who have had an atypical journey in their career (and to get them to talk about that interesting journey), as many early career researchers feel there's a right and wrong way to go about things, which isn't really true.   
-
-
-### Draft schedule
-
-Days 1 and 2 are effectively a couple of Software Carpentry workshops running simultaneously. Day 3 is then the "bazaar", with elective classes on all sorts of different digital research tools and techniques. People will be able to register for all 3 days or just the final day.
-
-| Time          | Tue 31 Jan         | Wed 1 Feb          | Thu 2 Feb          | 
-| :--           | :--                | :--                | :--                |
-| 08:30 - 09:00 | Keystory           | Keystory           | Keystory           |
-| 09:00 - 10:30 | Stream classes     | Stream classes     | Elective classes   | 
-| 10:30 - 11:00 | **Morning tea**    | **Morning tea**    | **Morning tea**    |
-| 11:00 - 12:30 | Stream classes     | Stream classes     | Elective classes   |
-| 12:30 - 01:30 | **Lunch**          | **Lunch**          | **Lunch & exhibitors ** |
-| 01:30 - 03:00 | Stream classes     | Stream classes     | Elective classes   |
-| 03:00 - 03:30 | **Afternoon tea ** | **Afternoon tea ** | **Afternoon tea ** |
-| 03:30 - 05:00 | Stream classes     | Stream classes     | Elective classes   |
-| After 5:00    | Social event       | Social event       |                    |
-
-
