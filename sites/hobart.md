@@ -2,7 +2,7 @@
 
 ----
 31 January - 2 February, 2017  
-University of Tasmania  
+University of Tasmania, Sandy Bay Campus  
 https://2017.resbaz.com/hobart
 
 
@@ -72,7 +72,7 @@ Key-stories replace the traditional "keynote" speaker. The idea is to find speak
 
 ### Draft schedule
 
-Days 1 and 2 are effectively a couple of Software Carpentry workshops running simultaneously. Day 3 is then the "bazaar", with elective classes on all sorts of different digital research tools and techniques. We could offer tickets to all three days or just the final day.
+Days 1 and 2 are effectively a couple of Software Carpentry workshops running simultaneously. Day 3 is then the "bazaar", with elective classes on all sorts of different digital research tools and techniques. People will be able to register for all 3 days or just the final day.
 
 | Time          | Tue 31 Jan         | Wed 1 Feb          | Thu 2 Feb          | 
 | :--           | :--                | :--                | :--                |
