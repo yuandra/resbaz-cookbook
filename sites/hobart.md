@@ -10,7 +10,7 @@ https://2017.resbaz.com/hobart
 
 [Data Science Hobart](https://datasciencehobart.github.io/) will host Tasmania's first ever ResBaz conference in early 2017. We're using this page to keep notes on the organising timeline and draft program.
 
-Please direct any questions to Damien Irving (irving.damien [at] gmail.com).
+Please direct any **questions** to datasciencehobart@gmail.com
 
 ## Timeline
 
