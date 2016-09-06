@@ -73,6 +73,8 @@ Other groups/people to approach about running an elective and/or being an exhibi
 * UTAS library
 * [TPAC](http://www.tpac.org.au/)
 * [Innovatas](http://www.innovatas.com.au/who/)
+* [The Yield](http://www.theyield.com/)
+* [sense-t](http://www.sense-t.org.au/)
 
 
 ### Social events
