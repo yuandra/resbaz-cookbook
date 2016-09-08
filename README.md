@@ -26,7 +26,7 @@ To keep up with the news between newsletters, email us and we'll add you to our 
 
 #### 2. Plan your event  
 
-At the table of contents of this Cookbook, you can find information on the history and philosophy of ResBaz, as well as ideas for classes and social events that you might want to run. We're hoping all sites will create their own progress pages at this cookbook (email us and we'll give you editing permissions), so they can openly share their plans with the rest of the global community.
+At the table of contents of this Cookbook, you can find information on the history and philosophy of ResBaz, as well as ideas for classes and social events that you might want to run. We're hoping all sites will create their own [progress pages](https://heydejan.gitbooks.io/resbaz-cookbook/content/progress_summaries.html) at this cookbook (email us and we'll give you editing permissions), so they can openly share their plans with the rest of the global community.
 
 
 #### 3. Advertise your event
