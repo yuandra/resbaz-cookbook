@@ -32,11 +32,15 @@ At the table of contents of this Cookbook, you can find information on the histo
 #### 3. Advertise your event
 
 Once your plans are taking shape, you'll want to start making some noise about your event. Here's how to go about doing that:
+
+###### Webpage
+
   * The main [ResBaz 2017 website](https://2017.resbaz.com/) has a map with pins corresponding to each of the host sites around the world. If you click on those pins they take you to the dedicated webpage for that site.
     * To create and launch your own site page, head to [this GitHub repository](https://github.com/resbaz/resbaz2017) which hosts the source code for the website. The README has instructions for creating site pages.
   * Please use the #ResBaz hashtag whenever tweeting about your event
   * If you need a copy of the ResBaz logo for advertising purposes, you can find it (in many different file formats) at [this folder](https://github.com/resbaz/resbaz2017/tree/gh-pages/img/resbaz_logos) of the GitHub repository 
 
-
-(In the coming months we'll be providing additional information on topics like how to handle registrations.)
+###### Registrations
+  * You can use whatever online platform you like to manage registrations (e.g. Eventbrite, Google Forms), but we ask that at a bare minimum you require applicants to answer [this core set](https://docs.google.com/spreadsheets/d/137WFrCEBOg-Z9Nsjf2Y_4cmeyzjXoNS7DCJM6F8e4IY/edit#gid=0) of questions
+  * These core questions were developed by a group of representatives from each ResBaz site and the (anonymised) results will be analysed after the event to get an overview of the global ResBaz crowd   
 
