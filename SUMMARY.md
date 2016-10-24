@@ -7,5 +7,5 @@
 * [Progress summaries](progress_summaries.md)
    * [Hobart](sites/hobart.md)
 * [FAQs](faqs.md)
-* Writing a Proposal
+* [Writing a Proposal](writing_a_proposal.md)
 
