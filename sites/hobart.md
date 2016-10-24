@@ -14,31 +14,30 @@ Please direct any **questions** to datasciencehobart@gmail.com
 
 ## Timeline
 
-* September 2016: Make venue bookings
-* October 2016: Put out a call for exhibitors and elective classes. Finalise schedule.
+* October 2016: Put out a call for exhibitors and elective classes. Finalise schedule and make venue booking.
 * November 2016: Open registrations
 
 ## Draft program
 
 ### Schedule
 
-Days 1 and 2 are effectively a couple of Software Carpentry workshops running simultaneously. Day 3 is then the "bazaar", with elective classes on all sorts of different digital research tools and techniques. People will be able to register for all 3 days or just the final day.
+Days 1 and 2 are effectively a couple of Software Carpentry workshops running simultaneously (i.e. a Python workshop and an R workshop). Day 3 is then the "bazaar", with elective classes on all sorts of different digital research tools and techniques. People will be able to register for all 3 days or just the final day.
 
 | Time          | Tue 31 Jan         | Wed 1 Feb          | Thu 2 Feb          | 
 | :--           | :--                | :--                | :--                |
 | 08:30 - 09:00 | Keystory           | Keystory           | Keystory           |
-| 09:00 - 10:30 | Stream classes     | Stream classes     | Elective classes   | 
+| 09:00 - 10:30 | Software Carpentry | Software Carpentry | Elective classes   | 
 | 10:30 - 11:00 | **Morning tea**    | **Morning tea**    | **Morning tea**    |
-| 11:00 - 12:30 | Stream classes     | Stream classes     | Elective classes   |
+| 11:00 - 12:30 | Software Carpentry | Software Carpentry | Elective classes   |
 | 12:30 - 01:30 | **Lunch**          | **Lunch**          | **Lunch & exhibitors ** |
-| 01:30 - 03:00 | Stream classes     | Stream classes     | Elective classes   |
+| 01:30 - 03:00 | Software Carpentry | Software Carpentry | Elective classes   |
 | 03:00 - 03:30 | **Afternoon tea ** | **Afternoon tea ** | **Afternoon tea ** |
-| 03:30 - 05:00 | Stream classes     | Stream classes     | Elective classes   |
+| 03:30 - 05:00 | Software Carpentry | Software Carpentry | Elective classes   |
 | After 5:00    | Social event       | Social event       |                    |
 
 ### Class details
 
-#### Streams (Day 1 and 2)
+#### Software Carpentry (Day 1 and 2)
 
 When people register, they will be required to select one of the following streams. Each will run simultaneously over the first two days of the event.
 
@@ -54,9 +53,10 @@ On the final day of the event (i.e. once the participants have got some core ski
 | Elective class | Leader | Type (approximate length) |
 | :---  | :---       | :----              | 
 | Public speaking | Bill Cohen | Workshop (3 hours) |
-| A tour of the scientific Python stack | Damien Irving | Talk/demonstration (30 minutes) |
+| Installing and navigating the scientific Python stack | Damien Irving | Talk/demonstration (30 minutes) |
 | How to write a reproducible paper | Damien Irving | Talk (30 minutes) |
 | Dumb question session | Software Carpentry instructors | Question and answer session (1.5 hours) |
+| Introduction to the NeCTAR Cloud | Just Berkhout | Workshop (3 hours) |
 
 | Exhibitor               | Contact person  |
 | :---                    | :---            |
@@ -90,7 +90,7 @@ Ideas:
 
 | Topic             | Speaker/s      | Notes |
 | :--               | :----          | :--   |
-| Keystory (day 1)  | Damien Irving  | Title: "A brief history of ResBaz and how it was the making of my PhD experience" |
+| Keystory (day 1)  | Damien Irving  | Title: "A brief history of ResBaz and how it was the making of my PhD" |
 | Keystory (day 2)  | ???            |       |
 | Keystory (day 3)  | ???            |       |
 
