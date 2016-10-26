@@ -57,6 +57,7 @@ On the final day of the event (i.e. once the participants have got some core ski
 | How to write a reproducible paper | Damien Irving | Talk (30 minutes) |
 | Dumb question session | Software Carpentry instructors | Question and answer session (1.5 hours) |
 | Introduction to the NeCTAR Cloud | Just Berkhout | Workshop (3 hours) |
+| Managing marine and Antarctic data at UTAS | Peter Wals, Emma Flukes | Talk (15 minutes) | 
 
 | Exhibitor               | Contact person  |
 | :---                    | :---            |
