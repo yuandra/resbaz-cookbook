@@ -55,9 +55,14 @@ On the final day of the event (i.e. once the participants have got some core ski
 | Public speaking | Bill Cohen | Workshop (3 hours) |
 | Installing and navigating the scientific Python stack | Damien Irving | Talk/demonstration (30 minutes) |
 | How to write a reproducible paper | Damien Irving | Talk (30 minutes) |
+| Data management in the weather, ocean and climate sciences | Damien Irving | Workshop (1.5 hours) |
 | Dumb question session | Software Carpentry instructors | Question and answer session (1.5 hours) |
-| Introduction to the NeCTAR Cloud | Just Berkhout | Workshop (3 hours) |
+| Introduction to the NeCTAR Cloud | Just Berkhout | Workshop (3 hours, preference for morning) |
 | Managing marine and Antarctic data at UTAS | Peter Walsh, Emma Flukes | Talk (15 minutes) | 
+| What we do at Tidetech | Alex Leith | Talk (15-30 minutes) |
+| Accessing and processing data from IMOS | TBA (Marty Hidas will find someone) | Workshop (1 hour) |
+| Getting started with netCDF | Damien Irving (Python), Tom Remenyi (R), Just Berkhout (lots of data) | Talk/demonstration (1 hour) |
+| The executable paper | Tom Remenyi | Demonstration (1 Hour) |
 
 | Exhibitor               | Contact person  |
 | :---                    | :---            |
@@ -76,15 +81,17 @@ Other groups/people to approach about running an elective and/or being an exhibi
 * [Innovatas](http://www.innovatas.com.au/who/)
 * [The Yield](http://www.theyield.com/)
 * [sense-t](http://www.sense-t.org.au/)
-
+* Pearse Buchanan
+* Eric Oliver
+* Grant Williamson (GIS)
+* NLTK
+* Vanessa Lucieer
+* Guy Williams
 
 ### Social events
 
 | Event | Leader     | Description |
 | :---  | :---       | :----       | 
-
-Ideas:
-* Morning breakfast and yoga
 
 
 ### Speakers
