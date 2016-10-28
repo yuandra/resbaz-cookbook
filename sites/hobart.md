@@ -63,6 +63,7 @@ On the final day of the event (i.e. once the participants have got some core ski
 | Accessing and processing data from IMOS | TBA (Marty Hidas will find someone) | Workshop (1 hour) |
 | Getting started with netCDF | Damien Irving (Python), Tom Remenyi (R), Just Berkhout (lots of data) | Talk/demonstration (1 hour) |
 | The executable paper | Tom Remenyi | Demonstration (1 Hour) |
+| Introducing the Australian National Data Service | Katherine Tattersall | Talk (15 minutes) |  
 
 | Exhibitor               | Contact person  |
 | :---                    | :---            |
@@ -72,10 +73,10 @@ On the final day of the event (i.e. once the participants have got some core ski
 | [UTAS bioinformatics](https://lists.utas.edu.au/mailman/listinfo/bioinformatics-list)     | Michael Charleston |
 | [COMBINE](https://combine.org.au/category/where/tas/)                 | Andrew Phipps   |
 | [Hobart Hackerspace](https://hobarthackerspace.org.au/)      | David Craig     |
+| Australian National Data Service | Katherine Tattersall |
 
 
-Other groups/people to approach about running an elective and/or being an exhibitor:
-* [IMOS](http://imos.org.au/)
+Other groups/people to approach about running an elective and/or being an exhibitor
 * UTAS library
 * [TPAC](http://www.tpac.org.au/)
 * [Innovatas](http://www.innovatas.com.au/who/)
@@ -84,7 +85,7 @@ Other groups/people to approach about running an elective and/or being an exhibi
 * Pearse Buchanan
 * Eric Oliver
 * Grant Williamson (GIS)
-* NLTK
+* An NLTK person??
 * Vanessa Lucieer
 * Guy Williams
 
