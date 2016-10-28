@@ -104,3 +104,9 @@ Other groups/people to approach about running an elective and/or being an exhibi
 | Keystory (day 3)  | ???            |       |
 
 Key-stories replace the traditional "keynote" speaker. The idea is to find speakers who have had an atypical journey in their career (and to get them to talk about that interesting journey), as many early career researchers feel there's a right and wrong way to go about things, which isn't really true.   
+
+
+### Advertising
+
+* [UTAS Media Office](http://www.media.utas.edu.au/)  
+* [Andrew Rhodes](http://www.imas.utas.edu.au/imas/media-and-reports), IMAS Communications Manager
