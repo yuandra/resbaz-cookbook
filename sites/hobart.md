@@ -50,20 +50,20 @@ When people register, they will be required to select one of the following strea
 
 On the final day of the event (i.e. once the participants have got some core skills under their belt) a number of short elective classes will be offered. These will be 0.5-3.0 hours in length and participants can attend whichever they like. During the lunch break exhibitors will have display tables so they can chat to attendees (and sign people up to their mailing lists, etc).
 
-| Elective class | Leader | Type (approximate length) |
-| :---  | :---       | :----              | 
-| Public speaking | Bill Cohen | Workshop (3 hours) |
-| Installing and navigating the scientific Python stack | Damien Irving | Talk/demonstration (30 minutes) |
-| How to write a reproducible paper | Damien Irving | Talk (30 minutes) |
-| Data management in the weather, ocean and climate sciences | Damien Irving | Workshop (1.5 hours) |
-| Dumb question session | Software Carpentry instructors | Question and answer session (1.5 hours) |
-| Introduction to the NeCTAR Cloud | Just Berkhout | Workshop (3 hours, preference for morning) |
-| Managing marine and Antarctic data at UTAS | Peter Walsh, Emma Flukes | Talk (15 minutes) | 
-| What we do at Tidetech | Alex Leith | Talk (15-30 minutes) |
-| Accessing and processing data from IMOS | TBA (Marty Hidas will find someone) | Workshop (1 hour) |
-| Getting started with netCDF | Damien Irving (Python), Tom Remenyi (R), Just Berkhout (lots of data) | Talk/demonstration (1 hour) |
-| The executable paper | Tom Remenyi | Demonstration (1 Hour) |
-| Introducing the Australian National Data Service | Katherine Tattersall | Talk (15 minutes) |  
+| Elective class | Leader | Overview | Type (approximate length) |
+| :---           | :---   | :----    | :----                     | 
+| Public speaking | Bill Cohen | | Workshop (3 hours) |
+| Installing and navigating the scientific Python stack | Damien Irving | This session will give an overview of the major Python libraries used for data science. Participants will learn how to manage and install these libraries using the conda package manager. | Talk/demonstration (30 minutes) |
+| How to write a reproducible paper | Damien Irving | Modern research relies heavily on software and code. These aspects of the research methodology are rarely (if ever) documented in modern research papers, which has led to a reproducibility crisis in published computational research. This talk will outline the practical steps you can take to ensure that your papers are reproducible. | Talk (30 minutes) |
+| Data management in the weather, ocean and climate sciences | Damien Irving | This session will cover the core concepts and skills required to effectively manage research data in the weather and climate sciences. Along the way the session will touch on netCDF files and the major Python libraries used in this field of research. [A basic familiarity with Python is required.] | Workshop (1.5 hours) |
+| Dumb question session | Software Carpentry instructors | Got a dumb programming question but you're too embarrassed to ask? At the beginning of this session participants will write down their questions and drop them (anonamously) into a hat. Everyone in the room (including a bunch of Software Carpentry instructors) will then have a go at answering them.  | Question and answer session (1.5 hours) |
+| Introduction to the NeCTAR Cloud | Just Berkhout | | Workshop (3 hours, preference for morning) |
+| Managing marine and Antarctic data at UTAS | Peter Walsh, Emma Flukes | | Talk (15 minutes) | 
+| What we do at Tidetech | Alex Leith | | Talk (15-30 minutes) |
+| Accessing and processing data from IMOS | TBA (Marty Hidas will find someone) | | Workshop (1 hour) |
+| Getting started with netCDF | Damien Irving (Python), Tom Remenyi (R), Just Berkhout (lots of data) | | Talk/demonstration (1 hour) |
+| The executable paper | Tom Remenyi | | Demonstration (1 Hour) |
+| Introducing the Australian National Data Service | Katherine Tattersall | | Talk (15 minutes) |  
 
 | Exhibitor               | Contact person  |
 | :---                    | :---            |
