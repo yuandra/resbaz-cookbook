@@ -82,12 +82,6 @@ Other groups/people to approach about running an elective and/or being an exhibi
 * [Innovatas](http://www.innovatas.com.au/who/)
 * [The Yield](http://www.theyield.com/)
 * [sense-t](http://www.sense-t.org.au/)
-* Pearse Buchanan
-* Eric Oliver
-* Grant Williamson (GIS)
-* An NLTK person??
-* Vanessa Lucieer
-* Guy Williams
 
 ### Social events
 
